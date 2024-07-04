@@ -1,1 +1,1 @@
-# Exerc-cio_05_JS
+# Exercicio_05_JS
